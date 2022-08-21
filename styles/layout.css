@@ -1,0 +1,100 @@
+:root {
+  --bg-color: #f5f5f5;
+  --title-color: #747474;
+}
+
+body {
+  font-family: "Noto Sans", sans-serif;
+  background: var(--bg-color);
+}
+
+.popup {
+  width: 300px;
+}
+
+.popup-title {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.title-color {
+  color: var(--title-color);
+}
+
+.title-time {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.main-img {
+  width: 60px;
+  margin-right: 1rem;
+}
+
+.form-control {
+  border-radius: 0.6rem;
+  border: 1px solid #e7e5e5;
+  background: white;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 28px 0px;
+}
+
+.time-input-select {
+  font-size: 18px;
+  width: 50px;
+  height: 50px;
+}
+
+.time-input {
+  width: 100px;
+  font-size: 18px;
+  text-align: center;
+}
+
+.time-input-select:hover,
+.time-input-select::selection,
+.time-input-select:checked {
+  border-color: #e7e5e5;
+}
+
+.time-input-select option {
+  text-align: center;
+}
+
+.time-title {
+  align-self: center;
+  font-size: 18px;
+  margin-right: 1.3rem;
+  margin-left: 0.4rem;
+}
+
+.detail-link {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  width: 100%;
+  background: white;
+  margin: 0;
+}
+
+.detail-link:hover,
+.detail-link.active {
+  border-radius: 0.5rem;
+  background: #e3e3e3;
+  /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
+}
+
+/* .detail-link:hover span,
+.detail-link.active span {
+  color: white;
+} */
+
+.detail-link.active:after {
+  /* content: "\2212"; */
+  /* background: url("../images/settings.png"); */
+}
+
+/* walking */
+.walking-setting-detail,
+.eye-setting-detail {
+  display: none;
+  overflow: hidden;
+}

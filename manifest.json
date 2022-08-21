@@ -1,0 +1,18 @@
+{
+  "name": "Reminder 50",
+  "description": "This extension will remind you to rest. We want you to care yourself by setting alarm to walk and rest for our body and eye. Life is too short, let start caring ourself.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "./js/background.js"
+  },
+  "permissions": ["storage", "tabs", "scripting", "alarms", "notifications"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "/images/reminder.png"
+    }
+  }
+}
+
+ 
