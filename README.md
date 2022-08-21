@@ -1,4 +1,4 @@
-# Reminder
+# Reminder 50 
 
 #### Video Description : https://www.youtube.com/watch?v=qOW9l6m0FLY&list=RDqOW9l6m0FLY&start_radio=1
 
@@ -6,7 +6,7 @@
 
 #### Description:
 
-This is chrome extension project. This extension will help you to remind to rest especially to walk and eye rest. I chose this reminder project because of my unusual habit in using computer. I also want to help other people to notify to rest for our longterm health. 
+This is chrome extension project (CS50 Project). This extension will help you to remind to rest especially to walk and eye rest. I chose this reminder project because of my unusual habit in using computer. I also want to help other people to notify to rest for our longterm health. 
 
 
 
