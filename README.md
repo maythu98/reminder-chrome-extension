@@ -22,12 +22,9 @@ This is chrome extension project. This extension will help you to remind to rest
 
 
 
-##### You can set your customized alarm.  
+##### You can customize your alarm.  
 
 ![Screenshot from 2022-08-21 22-37-26](https://s2.loli.net/2022/08/22/dSgu2Ri8m3Gt7rB.png)
-
-- **Set Minutes** is Alarm Time. We will alarm with this minutes. 
-- **Rest Time** is your rest time. (easy )
 
 
 
@@ -45,6 +42,6 @@ This is chrome extension project. This extension will help you to remind to rest
 
 
 
-##### After finish rest, you will notify you with notification.
+##### After finish rest, you will also notify you with notification.
 
 ![Screenshot from 2022-08-21 23-07-33](https://s2.loli.net/2022/08/22/uZahCMscnpKOVbY.png)
