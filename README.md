@@ -1,8 +1,7 @@
 # Reminder
 
-#### Video Description : 
+#### Video Description : https://youtu.be/-hpl3e0JW8o
 
-#### Chrome Web Store: 
 
 #### Description:
 
