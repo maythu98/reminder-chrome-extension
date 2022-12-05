@@ -1,6 +1,6 @@
 # Reminder 50
 
-#### Video Description : https://youtu.be/-hpl3e0JW8o
+#### Video Description : 
 
 
 #### Description:
